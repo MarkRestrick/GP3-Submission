@@ -1,0 +1,26 @@
+﻿  Studentmain.cpp
+c:\users\kiddy\desktop\gfx prog\gp3\gp3\studentmain.cpp(219): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\kiddy\desktop\gfx prog\gp3\gp3\studentmain.cpp(219): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\kiddy\desktop\gfx prog\gp3\gp3\studentmain.cpp(222): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+c:\users\kiddy\desktop\gfx prog\gp3\gp3\studentmain.cpp(238): warning C4244: 'argument': conversion from 'const int' to 'GLfloat', possible loss of data
+c:\users\kiddy\desktop\gfx prog\gp3\gp3\studentmain.cpp(395): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\kiddy\desktop\gfx prog\gp3\gp3\studentmain.cpp(397): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\kiddy\desktop\gfx prog\gp3\gp3\studentmain.cpp(399): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\kiddy\desktop\gfx prog\gp3\gp3\studentmain.cpp(403): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\kiddy\desktop\gfx prog\gp3\gp3\studentmain.cpp(405): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\kiddy\desktop\gfx prog\gp3\gp3\studentmain.cpp(407): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\kiddy\desktop\gfx prog\gp3\gp3\studentmain.cpp(410): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\kiddy\desktop\gfx prog\gp3\gp3\studentmain.cpp(412): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\kiddy\desktop\gfx prog\gp3\gp3\studentmain.cpp(415): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\kiddy\desktop\gfx prog\gp3\gp3\studentmain.cpp(417): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\kiddy\desktop\gfx prog\gp3\gp3\studentmain.cpp(419): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\kiddy\desktop\gfx prog\gp3\gp3\studentmain.cpp(421): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\kiddy\desktop\gfx prog\gp3\gp3\studentmain.cpp(423): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\kiddy\desktop\gfx prog\gp3\gp3\studentmain.cpp(459): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\kiddy\desktop\gfx prog\gp3\gp3\studentmain.cpp(463): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\kiddy\desktop\gfx prog\gp3\gp3\studentmain.cpp(467): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\kiddy\desktop\gfx prog\gp3\gp3\studentmain.cpp(471): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\kiddy\desktop\gfx prog\gp3\gp3\studentmain.cpp(475): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\kiddy\desktop\gfx prog\gp3\gp3\studentmain.cpp(478): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  GP3.vcxproj -> C:\Users\Kiddy\Desktop\Gfx Prog\GP3\Debug\GP3.exe
+  GP3.vcxproj -> C:\Users\Kiddy\Desktop\Gfx Prog\GP3\Debug\GP3.pdb (Partial PDB)
